@@ -1,5 +1,3 @@
-Here’s a highly professional and vibrant `README.md` you can use directly for your GitHub repository:
-
 ---
 
 # 🎯 Hierarchical Risk Parity (HRP) Portfolio Optimization
