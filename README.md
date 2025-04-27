@@ -93,5 +93,3 @@ This project is licensed under the **MIT License** — free to use, share, and a
 > **Built for resilient investing. Designed for serious professionals.**
 
 ---
-
-Would you also like me to generate an ASCII or Unicode-styled banner logo (to put at the top of the README) to make it even more impressive? 🎨
