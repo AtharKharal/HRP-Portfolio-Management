@@ -1,6 +1,5 @@
+# About Dr Athar Kharal
 ---
-
-# About Dr. Athar Kharal
 
 ![Dr. Athar Kharal](assets/images/athar_kharal.jpg)
 
