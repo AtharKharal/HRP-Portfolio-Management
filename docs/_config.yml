@@ -13,7 +13,8 @@ description: "Hierarchical Risk Parity Project by Dr. Athar Kharal"
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-swiss
 # theme: jekyll-theme-tactile
-theme: jekyll-theme-time-machine
+# theme: jekyll-theme-time-machine
+remote_theme: pages-themes/time-machine@v0.2.0
 markdown: kramdown
 # baseurl: "/HRP-Portfolio-Management" # Set to "/HRP-Portfolio-Management" if using a project page
 # url: "https://atharkharal.github.io" # Replace with your GitHub username
@@ -26,3 +27,4 @@ include:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
