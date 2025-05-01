@@ -5,13 +5,13 @@ title: Home
 
 ---
 
-# 🎯 Hierarchical Risk Parity (HRP) Portfolio Optimization
+<!-- # 🎯 Hierarchical Risk Parity (HRP) Portfolio Optimization -->
 
-# HRP Portfolio Optimization
+<!-- # HRP Portfolio Optimization -->
 
 This is the GitHub Pages site for the Hierarchical Risk Parity Project by Dr. Athar Kharal.
 
-## Pages
+# Pages
 
 - [Home](index.md)
 - [Theory](theory.md)
