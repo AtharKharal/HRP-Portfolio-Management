@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Hierarchical Risk Parity Portfolio Optimization
 
 Hierarchical Risk Parity (HRP) is an advanced portfolio optimization framework introduced by Marcos López de Prado in 2016.

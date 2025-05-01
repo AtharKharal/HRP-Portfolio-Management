@@ -1,4 +1,4 @@
-# Practical Applications
+# Applications
 
 ## Use Cases
 
