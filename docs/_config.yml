@@ -1,6 +1,19 @@
 title: "HRP Portfolio Optimization"
 description: "Hierarchical Risk Parity Project by Dr. Athar Kharal"
-theme: minima
+# theme: minima
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-modernist
+# theme: jekyll-theme-primer
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-swiss
+# theme: jekyll-theme-tactile
+theme: jekyll-theme-time-machine
 markdown: kramdown
 # baseurl: "/HRP-Portfolio-Management" # Set to "/HRP-Portfolio-Management" if using a project page
 # url: "https://atharkharal.github.io" # Replace with your GitHub username
